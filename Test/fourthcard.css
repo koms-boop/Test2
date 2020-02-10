@@ -1,0 +1,94 @@
+.div_4{
+  position: absolute;
+  width: 348px;
+  height: 450px;
+  left: 16px;
+  top: 616px;
+  border: 1px solid #CED4DA;
+  border-radius: 4px;
+}
+.img_1{
+  position: absolute;
+  width: 348px;
+  height: 232px;
+  background: url(Test.png);
+  border-radius: 4px 4px 0px 0px;
+}
+.content{
+  position: absolute;
+  width: 308px;
+  height: 178px;
+  left: 20px;
+  top: 252px;
+}
+.p_1{
+  position: absolute;
+  width: 70px;
+  height: 24px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  color: #212529;
+}
+.p_2{
+  position: absolute;
+  width: 308px;
+  height: 48px;
+  top: 32px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #212529;
+}
+.p_3{
+  position: absolute;
+  width: 81px;
+  height: 24px;
+  top: 100px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #212529;
+}
+.people{
+  position: absolute;
+  width: 47px;
+  height: 18px;
+  left: 89px;
+  top: 103px;
+  background: #6C757D;
+  border-radius: 4px;
+}
+.tech{
+  position: absolute;
+  width: 35px;
+  height: 18px;
+  left: 142px;
+  top: 103px;
+  background: #6C757D;
+  border-radius: 4px;
+}
+.future{
+  position: absolute;
+  width: 46px;
+  height: 18px;
+  left: 181px;
+  top: 103px;
+  background: #6C757D;
+  border-radius: 4px;
+}
+
+.button_1{
+  position: absolute;
+  width: 102px;
+  height: 38px;
+  top: 140px;
+  background: #007BFF;
+  border-radius: 4px;
+}

@@ -1,0 +1,104 @@
+h1{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0px;
+}
+
+h2{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0px;
+}
+h3{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #FFFFFF;
+  margin: 0;
+}
+
+.div_main{
+  position: absolute;
+  width: 1140px;
+  height: 1091px;
+  left: 230px;
+  top: 0px;
+  background: #FFFFFF;
+}
+.navbar{
+  position: absolute;
+  width: 1110px;
+  height: 56px;
+  left: 15px;
+  top: 0px;
+  background: #F8F9FA;
+}
+.a_1{
+  position: absolute;
+  width: 83px;
+  height: 30px;
+  left: 36px;
+  top: 13px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 27px;
+  color: #212529;
+}
+.search{
+  position: absolute;
+  top: 80px;
+  width: 1003px;
+  height: 38px;
+  left: 15px;
+  background: #FFFFFF;
+  border: 1px solid #CED4DA;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+::-webkit-input-placeholder {
+  position: absolute;
+  width: 48px;
+  height: 23px;
+  padding-left: 27px;
+  padding-top: 87px;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  color: #6C757D;
+}
+.button{
+  position: absolute;
+  width: 77px;
+  height: 38px;
+  left: 1048px;
+  top: 80px;
+  background: #007BFF;
+  border-radius: 4px;
+}
+p{
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+
+
+  color: #212529;
+}
